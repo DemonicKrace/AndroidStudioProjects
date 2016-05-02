@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/ALL/app/libs/estimote-sdk-preview-javadoc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="18173ff7fc111ef883c998cf7fd4f58558d3cf2f">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/pre-dexed/debug/estimote-sdk-preview-javadoc-2b28a71491c35eff888903a9ce40f57812f11337.jar" />
+    </item>
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/ALL/app/libs/estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f1ef6b1d6ba4a1d982cf6bf86314a4f172a8ee">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/pre-dexed/debug/estimote-sdk-preview-80c47ce1df6c34f530917b0d8bfca0ab3aa04761.jar" />
+    </item>
+
+</items>

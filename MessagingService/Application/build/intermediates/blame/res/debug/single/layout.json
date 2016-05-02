@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/build/intermediates/res/merged/debug/layout/fragment_message_me.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/src/main/res/layout/fragment_message_me.xml"
+    }
+]

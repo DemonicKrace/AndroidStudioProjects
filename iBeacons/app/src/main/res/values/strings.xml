@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_show_log">Show_log</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="shop01">shop01</string>
+    <string name="shop02">shop02</string>
+    <string name="shop03">shop03</string>
+    <string name="shop04">shop04</string>
+    <string name="shop05">shop05</string>
+    <string name="shop06">shop06</string>
+    <string name="shop07">shop07</string>
+    <string name="shop08">shop08</string>
+    <string name="title_activity_shop_log">Shop_log</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

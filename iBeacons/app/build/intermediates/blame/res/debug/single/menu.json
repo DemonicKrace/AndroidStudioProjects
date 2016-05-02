@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/menu/menu_shop_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/menu/menu_shop_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/menu/scan_menu.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/menu/scan_menu.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/menu/menu_shop_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/menu/menu_shop_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/menu/scan_menu.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/menu/scan_menu.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/android_contact.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/src/main/res/drawable-xxhdpi/android_contact.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/notification_icon.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/MessagingService/Application/src/main/res/drawable-xxhdpi/notification_icon.png"
+    }
+]

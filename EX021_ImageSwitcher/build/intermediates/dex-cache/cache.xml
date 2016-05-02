@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/demonickrace/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/EX021_ImageSwitcher/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-b9e13f38f3148bdf245f805aea6aa8321b9e069c.jar" />
+    </item>
+
+</items>

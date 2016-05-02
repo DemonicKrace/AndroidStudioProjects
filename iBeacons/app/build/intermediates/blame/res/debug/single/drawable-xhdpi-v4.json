@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/b.jpg",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/drawable-xhdpi/b.jpg"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/b.jpg",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/drawable-xhdpi/b.jpg"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_distance.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/drawable-xhdpi/bg_distance.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/beacon_gray.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/drawable-xhdpi/beacon_gray.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/a.jpg",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/drawable-xhdpi/a.jpg"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dot.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/drawable-xhdpi/dot.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/a.jpg",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/drawable-xhdpi/a.jpg"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dot.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/drawable-xhdpi/dot.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/beacon_gray.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/drawable-xhdpi/beacon_gray.png"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_distance.png",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/drawable-xhdpi/bg_distance.png"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/activity_shop.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/activity_shop.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/characteristics_demo.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/characteristics_demo.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/characteristics_demo.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/characteristics_demo.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/distance_view.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/distance_view.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/all_demos.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/all_demos.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/distance_view.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/distance_view.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/notify_demo.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/notify_demo.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/activity_show_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/activity_show_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/notify_demo.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/notify_demo.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/device_item.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/device_item.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/activity_show_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/activity_show_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/activity_shop_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/activity_shop_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/activity_shop_log.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/activity_shop_log.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/device_item.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/device_item.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/build/intermediates/res/merged/debug/layout/activity_shop.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/iBeacons/app/src/main/res/layout/activity_shop.xml"
+    },
+    {
+        "merged": "/Users/demonickrace/AndroidStudioProjects/ALL/app/build/intermediates/res/merged/debug/layout/all_demos.xml",
+        "source": "/Users/demonickrace/AndroidStudioProjects/ALL/app/src/main/res/layout/all_demos.xml"
+    }
+]

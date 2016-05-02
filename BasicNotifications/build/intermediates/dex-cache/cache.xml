@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/pre-dexed/debug/classes-ee3a886ea27a80da8bdc41b0e1c4f1335535b41d.jar" />
+    </item>
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/pre-dexed/debug/classes-2b241a06b15cac79013fc2860feede26e3a86774.jar" />
+    </item>
+    <item
+        jar="/Users/demonickrace/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-8881d755af574590ea85f01a052edbc1a566962a.jar" />
+    </item>
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-a5b2b389bc2db1c191e04cdbb7966793b7d65b2c.jar" />
+    </item>
+    <item
+        jar="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/demonickrace/AndroidStudioProjects/BasicNotifications/Application/build/intermediates/pre-dexed/debug/classes-cd2933727e7acb3ae9a9831c8c6b9fde3bc7b129.jar" />
+    </item>
+
+</items>
