@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BLE_Scanner.iml" filepath="$PROJECT_DIR$/BLE_Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/andriodwear/andriodwear.iml" filepath="$PROJECT_DIR$/andriodwear/andriodwear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/andriodwear/andriodwear.iml" filepath="$PROJECT_DIR$/andriodwear/andriodwear.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
