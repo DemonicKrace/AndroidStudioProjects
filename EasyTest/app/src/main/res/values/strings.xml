@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">EasyTest</string>
     <string name="subjectTitle">數學測驗</string>
-    <string name="testTitle">第一題</string>
+    <string name="testTitle">第n題</string>
     <string name="testContent">試題內容</string>
     <string name="operation">a + b x c</string>
-    <string name="answer">答案</string>
+    <string name="answer">請輸入答案</string>
     <string name="answerReply">答案正確/錯誤</string>
     <string name="solution">試題解析</string>
     <string name="nextQuestion">下一題</string>

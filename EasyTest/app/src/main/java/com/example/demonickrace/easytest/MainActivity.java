@@ -1,12 +1,12 @@
 package com.example.demonickrace.easytest;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
-public class MainActivity extends Activity implements OnClickListener{
+public class MainActivity extends AppCompatActivity implements OnClickListener{
 
     final String tag = "MainActivity";
     public static final int requestCodeForMath = 0;

@@ -14,7 +14,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/testTitle"
-        android:id="@+id/testTitleTextView" />
+        android:id="@+id/testTitleTextView"
+        android:textSize="20dp" />
 
     <ScrollView
         android:layout_width="match_parent"
@@ -27,7 +28,9 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="@string/testContent"
-            android:id="@+id/testContentTextView" />
+            android:id="@+id/testContentTextView"
+            android:paddingTop="10dp"
+            />
     </ScrollView>
 
     <ScrollView
@@ -44,14 +47,23 @@
             android:textIsSelectable="false" />
     </ScrollView>
 
-    <EditText
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/answerEditText"
-        android:text="@string/answer"
-        android:numeric="decimal"
-        android:inputType="numberDecimal"
-        android:nestedScrollingEnabled="false" />
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        >
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/answerEditText"
+            android:numeric="decimal"
+            android:inputType="numberDecimal"
+            android:nestedScrollingEnabled="false"
+            android:hint="@string/answer" />
+    </LinearLayout>
 
     <RelativeLayout
         android:orientation="horizontal"
@@ -75,7 +87,7 @@
 
         <TextView
             android:layout_width="250dp"
-            android:layout_height="100dp"
+            android:layout_height="fill_parent"
             android:id="@+id/answerReplyTextView"
             android:textSize="15sp"
             android:textStyle="bold"
@@ -84,7 +96,7 @@
             android:layout_alignParentEnd="true"
             android:text="@string/answerReply"
             android:autoText="false"
-            android:background="@android:color/holo_blue_bright"
+            android:background="@color/highlighted_text_material_dark"
             android:textAlignment="center" />
 
     </RelativeLayout>
