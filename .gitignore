@@ -1,0 +1,14 @@
+
+*.java
+
+*.java
+
+EasyTest/app/src/main/java/com/example/demonickrace/easytest/MathExerciseData.java
+
+EasyTest/app/src/main/java/com/example/demonickrace/easytest/MainActivity.java
+
+EasyTest/app/src/main/java/com/example/demonickrace/easytest/MathTestActivity.java
+
+*.java
+
+EasyTest/build.gradle
